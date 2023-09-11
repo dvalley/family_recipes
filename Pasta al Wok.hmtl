@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+<head>
+    <meta charset="UTF-8">
+    <title>Pasta al Wok</title>
+</head>
+<body>
+<div>
+    <main id="main" role="main">
+        <div>
+            <article>
+                <header>
+                    <h1>Pasta al Wok</h1>
+                </header>
+                <div>
+                    <script type="application/ld+json">
+                    {
+                        "@context": "https://schema.org",
+                        "@type": "Recipe",
+                        "name": "Pasta al Wok",
+                        "recipeIngredient": [
+                            "Cebolleta/cebolla 130g",
+                            "Pimiento rojo 100g",
+                            "Pimiento verde 75g",
+                            "Zanahorias 2",
+                            "Tallarines, 240g",
+                            "Soja, un buen chorro",
+                            "Pollo 3 filetes",
+                            "Curry, media cucharadita"
+                        ],
+                        "recipeInstructions": [
+                            "Se cuece la pasta.",
+                            "Se pone una sarten con la Zanahoria y cuando esté blanda se echa el pimiento y cuando esté listo la cebolla o Cebolleta.",
+                            "Se echa el pollo en tiras hasta que se haga.",
+                            "Se escurre la pasta y se vierte en la sarten.",
+                            "Se echa media cucharadita de curry y se remueve bien. Luego se echa un buen chorro de salsa de soja y se remueve bien.",
+                            "Listo!"
+                        ]
+                    }
+                    </script>
+                </div>
+                <div>
+                    <h3>Ingredientes</h3>
+                    <ul>
+                        <li>Cebolleta/cebolla 130g</li>
+                        <li>Pimiento rojo 100g</li>
+                        <li>Pimiento verde 75g</li>
+                        <li>Zanahorias 2</li>
+                        <li>Tallarines, 240g</li>
+                        <li>Soja, un buen chorro</li>
+                        <li>Pollo 3 filetes</li>
+                        <li>Curry, media cucharadita</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Preparación</h3>
+                    <ol>
+                        <li>Se cuece la pasta.</li>
+                        <li>Se pone una sarten con la Zanahoria y cuando esté blanda se echa el pimiento y cuando esté listo la cebolla o Cebolleta.</li>
+                        <li>Se echa el pollo en tiras hasta que se haga.</li>
+                        <li>Se escurre la pasta y se vierte en la sarten.</li>
+                        <li>Se echa media cucharadita de curry y se remueve bien. Luego se echa un buen chorro de salsa de soja y se remueve bien.</li>
+                        <li>Listo!</li>
+                    </ol>
+                </div>
+            </article>
+        </div>
+    </main>
+</div>
+</body>
+</html>
